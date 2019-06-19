@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65441527767",
+    "firebase_url": "https://monitoringtanaman-744c8.firebaseio.com",
+    "project_id": "monitoringtanaman-744c8",
+    "storage_bucket": "monitoringtanaman-744c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65441527767:android:0351c550d5a7c6c3",
+        "android_client_info": {
+          "package_name": "com.example.monitoringtanaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65441527767-m3g7t6ho67t72ptkddb1kk16ujmo2nhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChmQHiDROEBKVb584WfKggZhEluczCS3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
